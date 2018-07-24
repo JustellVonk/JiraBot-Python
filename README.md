@@ -1,0 +1,2 @@
+# JiraBot-Python
+Querying Jira
